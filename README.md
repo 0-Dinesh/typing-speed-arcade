@@ -58,6 +58,17 @@ typing-speed-arcade/
    java TypingGame
    ```
 
+### Running the Standalone Application (Windows)
+
+This version is bundled with a pre-configured Java Runtime Environment (JRE). You do not need to install Java on your system to play the game.
+
+1. Navigate to the **Releases** section on the right side of this repository.
+2. Download the latest `Typing-Game.zip` file.
+3. Extract the downloaded `.zip` folder to your desired location.
+4. Open the extracted folder and double-click `Typing game.exe` to launch the application.
+
+---
+
 ## Controls
 
 | Key Action | Function |
