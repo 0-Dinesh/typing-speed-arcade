@@ -28,8 +28,6 @@ An event-driven 2D desktop typing game written in Java, featuring smooth hardwar
 typing-speed-arcade/
 ├── src/
 │   └── TypingGame.java
-├── dist/
-    └── Typing-Game.zip
 ├── .gitignore
 ├── LICENSE
 └── README.md
@@ -59,14 +57,6 @@ typing-speed-arcade/
    ```bash
    java TypingGame
    ```
-
-### Running the Standalone Executable (.jar)
-
-1. Navigate to the `dist/` directory and download the `Typing-Game.zip`.
-2. Unpack `Typing-Game.zip`.
-3. Launch the executable in `Typing-Game/Typing Game.exe`, directly without needing a local java environment.
-
----
 
 ## Controls
 
