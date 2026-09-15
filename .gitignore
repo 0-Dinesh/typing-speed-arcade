@@ -1,5 +1,6 @@
 # Compiled class files
 *.class
+*.jar
 
 # IDE configuration folders
 .vscode/
@@ -13,3 +14,4 @@ Thumbs.db
 # Build/Output directories
 bin/
 out/
+build/
