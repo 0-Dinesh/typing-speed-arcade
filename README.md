@@ -44,7 +44,7 @@ typing-speed-arcade/
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/typing-speed-arcade.git](https://github.com/your-username/typing-speed-arcade.git)
+   git clone https://github.com/your-username/typing-speed-arcade.git
    cd typing-speed-arcade/src
    ```
 
