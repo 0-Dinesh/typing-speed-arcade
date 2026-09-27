@@ -1,4 +1,4 @@
-# Typing Speed Arcade
+# Arcade-Style Speed Typing Game Engine
 
 An event-driven 2D desktop typing game written in Java, featuring smooth hardware-accelerated rendering, real-time input evaluation, and adaptive projectile speed mechanics.
 
