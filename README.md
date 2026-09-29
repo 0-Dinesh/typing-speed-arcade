@@ -22,17 +22,6 @@ An event-driven 2D desktop typing game written in Java, featuring smooth hardwar
 
 ---
 
-## Project Structure
-
-```text
-typing-speed-arcade/
-├── src/
-│   └── TypingGame.java
-├── .gitignore
-├── LICENSE
-└── README.md
-```
-
 ---
 
 ## Getting Started
