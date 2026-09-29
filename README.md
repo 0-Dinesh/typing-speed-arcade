@@ -22,8 +22,6 @@ An event-driven 2D desktop typing game written in Java, featuring smooth hardwar
 
 ---
 
----
-
 ## Getting Started
 
 ### Prerequisites
